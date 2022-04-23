@@ -2,11 +2,11 @@ layout: post
 current: post
 cover:
 navigation: True
-title: "An interesting post"
-date: 2021-06-15
-tags: []
+title: The progressivity of a UK carbon dividend
+date: 2022-04-23
+tags: [uk, carbon pricing]
 subclass: "post"
-author: nikhil
-excerpt: "Some interesting excerpt."
+author: max, nikhil
+excerpt: "A £100-per-tonne carbon dividend would cut poverty by 14% and deep child poverty by 33%."
 class: post-template
 useplotly: true
